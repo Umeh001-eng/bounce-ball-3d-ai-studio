@@ -1,0 +1,6 @@
+{
+  "name": "Bounce Ball 3D – Enemy Highway",
+  "description": "A high-octane 3D mobile highway endless runner featuring real Three.js physics, enemy pursuit, ball customization, God of Lava shop, and global top 10 leaderboards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
